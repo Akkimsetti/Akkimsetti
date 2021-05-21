@@ -1,9 +1,10 @@
-# Hello, I'm Akkimsetti Mohana Sai Chandra! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there, I'm Akkimsetti Mohana Sai Chandra! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👀 I’m interested in Robotics,IoT and Information Security
 - 🌱 I’m currently learning Machine Learning
+- 📕 I'm pursuing Electronics & Communication Engineering
+- 🎯 I'm passionate to develop real time solutions to real-world problems
 - 📫 You can find me [![LinkedIn][2.2]][2]
-
 
 
 
